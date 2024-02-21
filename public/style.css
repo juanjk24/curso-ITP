@@ -164,7 +164,7 @@ header{
 }
 
 .img-contenedor img{
-    height: 100%;
+    width: 80%;
 }
 
 /* SECCION HABILIDADES */
@@ -189,4 +189,35 @@ header{
     background-color: #070F2B;
     height: 100vh;
     padding: 0 10%;
+}
+
+
+/* Responsive desing */
+@media(max-width: 900px){
+
+    .navegacion{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .sobre-mi{
+        display: flex;
+        flex-direction: column-reverse; 
+        justify-content: flex-end;
+        margin: 5% 10%;
+    }
+
+    .img-contenedor{
+        margin-top: 45%;
+        margin-left: 0;
+    }
+
+    .redes-sociales{
+        position: static;
+        margin-top: 5px;
+    }
+
+    .img-contenedor img{
+        width: 50%;
+    }
 }
