@@ -13,5 +13,3 @@ El código HTML básico de la página incluye las secciones mencionadas anterior
 ## Ejecución
 
 Para ejecutar el proyecto, simplemente abre el archivo HTML en un navegador web compatible. La página se mostrará con la información de Juan Cuellar, incluyendo detalles sobre él, sus habilidades y proyectos. Los enlaces a redes sociales están disponibles para acceder a su perfil en diferentes plataformas. Además, el formulario de contacto proporciona una forma de contratarlo.
-
-¡Explora la página para conocer más sobre Juan Cuellar y su trabajo!
